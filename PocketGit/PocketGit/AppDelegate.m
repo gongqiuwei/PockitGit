@@ -9,6 +9,8 @@
 #import "AppDelegate.h"
 #import <ReactiveCocoa/ReactiveCocoa.h>
 
+#import "PGRouter.h"
+
 @interface AppDelegate ()
 
 @end
@@ -17,8 +19,6 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    
-    
     
     return YES;
 }
